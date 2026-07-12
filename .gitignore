@@ -1,0 +1,14 @@
+
+
+.terraform 
+*.tfstate 
+*.tfstate.backup 
+var.sh 
+terraform.tfstate 
+terraform.tfstate.backup 
+.terraform.lock.hcl 
+backend.sh 
+TF-az/.terraform 
+TF-az/terraform.tfstate 
+TF-az/terraform.tfstate.backup 
+TF-az/.terraform.lock.hcl
